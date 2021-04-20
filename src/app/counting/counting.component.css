@@ -2,7 +2,7 @@
     align-items: center;
     text-align: center;
     background-color: thistle;
-    width: 70%;
+    width: 80%;
     padding: 1em;
     margin: auto;
 }
@@ -16,4 +16,5 @@ button {
     height: 2em;
     font-weight: bold;
     border: 3px solid slategray;
+    border-radius: 6px;
 }
